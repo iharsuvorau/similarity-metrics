@@ -1,5 +1,8 @@
 # similarity-metrics
 
+[![crates.io](https://img.shields.io/crates/v/similarity-metrics.svg)](https://crates.io/crates/similarity-metrics)
+[![docs.rs](https://docs.rs/similarity-metrics/badge.svg)](https://docs.rs/similarity-metrics)
+
 Library to compute event logs similarity metrics.
 
 ## Examples
